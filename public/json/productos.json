@@ -1,0 +1,113 @@
+[
+    {
+        "key":"1",
+        "nameP":"ThinkPad L16",
+        "fabricante":"lenovo",
+        "resumen":"Procesador AMD Ryzen™ 5 PRO 7535U (2,90 GHz hasta 4,55 GHz),16 GB DDR5,256 GB SSD M.2",
+        "descripcion":"Las características de cada producto pueden variar según el país de adquisición del mismo, por lo que la siguiente descripción no debe ser interpretada como un compromiso contractual. Te invitamos a revisar las características específicas para cada producto antes de realizar la compra online en la sección 'Ver Modelos' de esta misma página, o con un asesor de ventas si es en una tienda física.",
+        "stock":10,
+        "tipos":1,
+        "precio":3453.43,
+        "imagen":"l16.png"
+    },
+    {
+        "key":"2",
+        "nameP":"Yoga 7 2-en-1 14",
+        "fabricante":"lenovo",
+        "resumen":"Procesador AMD Ryzen™ 7 8840HS (3,30 GHz hasta 5,10 GHz),16 GB DDR5,256 GB SSD M.2",
+        "descripcion":"Aprovecha la velocidad pura y el rendimiento fiable de los procesadores AMD Ryzen™ 8040 Series, diseñados para gestionar fácilmente varias tareas a la vez, incluso las más creativas. Descubre el potencial del procesamiento de la IA (inteligencia artificial) con la integración de la tecnología AMD Ryzen™ AI, diseñada para crear contenido innovador y atractivo sobre la marcha. Incluye las funciones de gestión smart de la alimentación más nuevas de AMD, para que puedas trabajar con un rendimiento eficiente y dar rienda suelta a tu creatividad en cualquier lugar.",
+        "stock":3,
+        "tipos":1,
+        "precio":3900.00,
+        "imagen":"yoga.png"
+    },
+    {
+        "key":"3",
+        "nameP":"ThinkPad T16 2da Gen",
+        "fabricante":"lenovo",
+        "resumen":"Procesador AMD Ryzen™ 7 PRO 7840U (3,30 GHz hasta 5,10 GHz),16 GB DDR5,256 GB SSD M.2",
+        "descripcion":"Con los procesadores móviles AMD Ryzen™ PRO 7000 Series, el portátil ThinkPad T16 de 2.ª generación ofrece una gran potencia para afrontar incluso las tareas más exigentes. No importa si quieres renderizar en 3D, exportar archivos de vídeo masivos o visualizar un sueño arquitectónico, estos procesadores se han diseñado para ganarle la carrera al reloj. Además, con la seguridad PRO, la capacidad de gestión PRO y las funciones PRO preparadas para las empresas, los administradores de IT apreciarán la comodidad de la implementación y la capacidad de gestión remotas, y todo el mundo disfrutará de mayor protección gracias a la seguridad adicional del dispositivo.",
+        "stock":8,
+        "tipos":1,
+        "precio":4399.00,
+        "imagen":"t16.png"
+    },
+    {
+        "key":"4",
+        "nameP":"MONITOR SAMSUNG LED LS32BG702ENXGO",
+        "resumen":"ODYSSEY G7 144HZ/1MS 32",
+        "fabricante":"Samsung",
+        "descripcion":"Descubre cada detalle con la máxima claridad. Con 4 veces la densidad de píxeles de FHD, ve juegos como nunca antes. El panel IPS ofrece colores claros y un amplio ángulo de visión de 178° para mayor claridad desde cualquier punto de vista. Con más píxeles y mayor profundidad, los juegos están más cerca de la realidad que nunca",
+        "stock":4,
+        "tipos":2,
+        "precio":2634.66,
+        "imagen":"MONITOR-SAMSUNG-LED.png"
+    },
+    {
+        "key":"5",
+        "nameP":"MONITOR LG GAMING UltraGear 34GP63A-B",
+        "fabricante":"LG",
+        "resumen":"CURVO WQHD, 160Hz/ 1MS FreeSync. 34",
+        "descripcion":"La pantalla UltraWide QHD (resolución de 3440x1440, ratio de 21:9) es excelente para jugar. Los jugadores pueden ver más información en la pantalla del juego",
+        "stock":6,
+        "tipos":2,
+        "precio":1428.84,
+        "imagen":"MONITOR-SAMSUNG-LED.png"
+    },
+    {
+        "key":"6",
+        "nameP":"Kit Gamer 3 En 1",
+        "fabricante":"Generico",
+        "resumen":"Teclado Semi Mecánico + Mouse + Pad Luz Led Color del teclado Negro",
+        "descripcion":"Con este kit de teclado y mouse Cybertel llevarás tus partidas a otro nivel. Destinado a un público gamer, potencia tu performance en distintos juegos. Con este combo, podrás darle un uso intensivo a estos dispositivos y disfrutar de interminables horas de diversión.",
+        "stock":20,
+        "tipos":3,
+        "precio":142.84,
+        "imagen":"kit3.png"
+    },
+    {
+        "key":"7",
+        "nameP":"Teclado gamer Redragon Kumara K552",
+        "fabricante":"RedDragon",
+        "resumen":"QWERTY español latinoamérica color negro con luz rainbow",
+        "descripcion":"Tecla de bloqueo de Windows y FN Esta tecla añade funcionalidad al teclado, evitando tocar accidentalmente la tecla que cierre nuestro juego mientras nos encontramos en el punto clave de la partida. Además, la inclusión de la tecla FN admite el uso de atajos multimedia que aportan al confort del usuario en todo momento.",
+        "stock":5,
+        "tipos":3,
+        "precio":280.84,
+        "imagen":"dragon.png"
+    },
+    {
+        "key":"8",
+        "nameP":"Kit de teclado y mouse Logitech MK120",
+        "fabricante":"Logitech",
+        "resumen":"Español Latinoamérica de color negro",
+        "descripcion":"Hacer tus actividades de manera más simple es posible. El kit MK120 de Logitech está compuesto por un teclado de tamaño normal resistente a salpicaduras y un mouse cuyo diseño es fácil de usar. Solo hay que conectar los cables a un puerto USB para empezar a usarlos gracias a su función Plug and Play.",
+        "stock":15,
+        "tipos":3,
+        "precio":520,
+        "imagen":"kitlog.png"
+    },
+    {
+        "key":"9",
+        "nameP":"Mouse Vertical Ergonómico",
+        "resumen":"Inalámbrico Recargable Color Negro",
+        "fabricante":"Generico",
+        "descripcion":"Para trabajar desde casa con la computadora o aprovechar los momentos de ocio, necesitas comodidad y facilidad de movimiento. Con tu YELANDAR D5 CHARGUER encuentra eso que buscas en un solo aparato con la mejor tecnología.",
+        "stock":3,
+        "tipos":3,
+        "precio":68,
+        "imagen":"mousevertical.png"
+    },
+    {
+        "key":"10",
+        "nameP":"Mouse Razer Cobra Rgb",
+        "fabricante":"Razer",
+        "resumen":"Chroma 8500 Dpi 58 Gramos - Negro",
+        "descripcion":"Desde 2005 Razer es la marca líder de estilo de vida para jugadores. Ha diseñado y construido el ecosistema de hardware, software y servicios más grande del mundo. La ubicación de cada botón y curva de los mouses Razer se crearon para adaptarse perfectamente a tu mano. Gracias a estos dispositivos, conseguirás una experiencia de juego cómoda y placentera.",
+        "stock":6,
+        "tipos":3,
+        "precio":180,
+        "imagen":"razer_cobra.png"
+    }
+    
+]

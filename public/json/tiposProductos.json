@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "Laptops",
+        "desc": 5,
+        "cant": 2
+    },
+    {
+        "id":2,
+        "name": "Monitores",
+        "desc": 5,
+        "cant": 2
+    },
+    {
+        "id":3,
+        "name": "Perifericos",
+        "desc": 5,
+        "cant": 2
+    }
+]
